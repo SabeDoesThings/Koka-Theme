@@ -1,8 +1,9 @@
 {
   "name": "koka-theme",
   "displayName": "Koka Theme",
-  "publisher": "SabeDoesThings",
-  "version": "0.0.1",
+  "publisher": "Sabe",
+  "version": "0.0.2",
+  "icon": "kokatheme-logo.png",
   "engines": {
     "vscode": "^1.107.1"
   },
@@ -15,5 +16,9 @@
         "path": "./themes/koka-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SabeDoesThings/Koka-Theme"
   }
 }
