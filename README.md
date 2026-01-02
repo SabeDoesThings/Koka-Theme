@@ -5,3 +5,4 @@ A theme based on the one used on the documentation page for the [Koka](https://k
 
 ## Screenshot
 ![Theme Screenshot](screenshot.png)
+
