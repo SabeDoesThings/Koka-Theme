@@ -1,0 +1,19 @@
+{
+  "name": "koka-theme",
+  "displayName": "Koka Theme",
+  "publisher": "SabeDoesThings",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.1"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Koka Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/koka-theme.json"
+      }
+    ]
+  }
+}

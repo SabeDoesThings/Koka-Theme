@@ -1,2 +1,4 @@
-# Koka-Theme
-A theme based on the one used on the documentation page for the Koka programming language
+# Koka Theme
+A theme based on the one used on the documentation page for the [Koka](https://koka-lang.github.io/koka/doc/index.html) programming language
+
+## Screenshot
