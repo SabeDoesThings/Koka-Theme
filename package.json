@@ -2,8 +2,8 @@
   "name": "koka-theme",
   "displayName": "Koka Theme",
   "publisher": "Sabe",
-  "version": "0.0.8",
-  "icon": "kokatheme-logo.png",
+  "version": "0.0.10",
+  "icon": "kokatheme-icon.png",
   "description": "A theme based on the one used on the documentation page for the Koka programming language",
   "engines": {
     "vscode": "^1.107.1"
